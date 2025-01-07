@@ -6,7 +6,8 @@ header{
     /* Rectangle 1 */
 
 position: fixed;
-width: 1340px;
+/* width: 1340px; */
+width: 1485px; /* Common Comment */
 height: 97px;
 left: 0px;
 top: 0px;
