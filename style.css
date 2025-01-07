@@ -1,0 +1,469 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    /* Rectangle 1 */
+
+position: fixed;
+width: 1340px;
+height: 97px;
+left: 0px;
+top: 0px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+z-index: 10000;
+background:blueviolet;
+}
+nav>a{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+text-decoration:none;
+
+
+}
+.numberpod{
+    position: relative;
+    right: 45px;
+}
+#first{
+    color: #FFFFFF
+}
+#first:hover{
+    color: #000000
+}
+#second{
+    color: #FFFFFF
+}
+#second:hover{
+    color: #000000
+}
+.first{
+/* Rectangle 2 */
+
+position: absolute;
+width: 294px;
+height: 591px;
+left: 573px;
+top: 594px;
+
+background: #FFD700;
+
+}
+.bletka{
+/* image 4 */
+
+position: absolute;
+width: 240px;
+height: 240px;
+left: 600px;
+top: 354px;
+
+background-image: url(bletka.png);
+
+}
+.second{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 294px;
+height: 395px;
+left: 279px;
+top: 790px;
+
+background: #D9D9D9;
+
+}
+.bryska{
+    /* image 5 */
+
+position: absolute;
+width: 229px;
+height: 255px;
+left: 311px;
+top: 535px;
+}
+.thirdy{
+/* Rectangle 4 */
+
+position: absolute;
+width: 294px;
+height: 223px;
+left: 867px;
+top: 962px;
+
+background: #964B00;
+
+
+}
+.beyo{
+
+position: absolute;
+width: 234px;
+height: 260px;
+left: 900px;
+top: 702px;
+
+}
+.rpt{
+    /* Ranking punktowy: */
+
+position: absolute;
+width: 783px;
+height: 75px;
+left: 123px;
+top: 1451px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+}
+.jeden{
+    /* Bletka */
+
+position: absolute;
+width: 283px;
+height: 61px;
+left: 123px;
+top: 1566px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #000000;
+
+
+}
+#bryskaq{
+    /* Bryska */
+
+position: absolute;
+width: 297px;
+height: 61px;
+left: 123px;
+top: 1627px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #FF00D9;
+
+
+}
+.beyoq{
+    /* Beyonce */
+
+position: absolute;
+width: 351px;
+height: 61px;
+left: 123px;
+top: 1688px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #00FFAA;
+
+
+}
+#guz{
+    /* Guzowinki */
+
+position: absolute;
+width: 414px;
+height: 61px;
+left: 123px;
+top: 1749px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #FF0022;
+
+
+}
+body{
+    background-image: url(gradient.png);
+}
+#avicii{
+    /* Avicii */
+
+position: absolute;
+width: 257px;
+height: 61px;
+left: 123px;
+top: 1810px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #EE00FF;
+
+
+}
+.avi{
+    /* Avicii */
+
+position: absolute;
+width: 257px;
+height: 61px;
+left: 123px;
+top: 1810px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #EE00FF;
+
+
+}
+#abba{
+    /* Abba */
+
+position: absolute;
+width: 236px;
+height: 61px;
+left: 123px;
+top: 1871px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #0033FF;
+
+
+}
+#casc{
+    /* Cascada */
+
+position: absolute;
+width: 354px;
+height: 61px;
+left: 120px;
+top: 1932px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #00FFD9;
+
+
+}
+#ales{
+    /* Alessandra */
+
+position: absolute;
+width: 446px;
+height: 61px;
+left: 123px;
+top: 1993px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #AEFF00;
+
+
+}
+#Jaxomy{
+    /* Jaxomy */
+
+position: absolute;
+width: 317px;
+height: 60px;
+left: 120px;
+top: 2054px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+letter-spacing: 0.24em;
+
+color: #FFD500;
+
+
+}
+.san{
+/* Sanah */
+
+position: absolute;
+width: 271px;
+height: 61px;
+left: 123px;
+top: 2114px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #FF0000;
+
+
+
+}
+#doltext{
+    /* Zachęcam do posłuchania wszystkich z powyższych Wykonawców */
+
+position: absolute;
+width: 881px;
+height: 183px;
+left: 275px;
+top: 2214px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+letter-spacing: 0.24em;
+
+color: #3F1EAC;
+
+
+}
+body{
+    background-image: url(img/gradient.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    /* ważne--obrazek--wszystko */
+}
+.stopkaf{
+    /* display: flex;
+    align-items: flex-start; */
+    /* Rectangle 5 */
+
+position: absolute;
+width: 1440px;
+height: 233px;
+left: 0px;
+top: 2767px;
+
+
+background: #000000;
+
+}
+.ytf{
+    /* Youtube 1 */
+
+position: absolute;
+width: 211px;
+height: 39px;
+left: 41px;
+top: 2810px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #FFFFFF;
+text-decoration: none;
+
+}
+.yts{
+    /* Youtube plus */
+
+position: absolute;
+width: 282px;
+height: 39px;
+left: 394px;
+top: 2810px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #2200ff;
+
+
+}
+#co{
+    /* :Contact */
+
+position: absolute;
+width: 183px;
+height: 39px;
+left: 928px;
+top: 2810px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+letter-spacing: 0.24em;
+
+color: #FFFFFF;
+
+
+}
